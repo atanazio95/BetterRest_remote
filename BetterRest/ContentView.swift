@@ -51,6 +51,7 @@ struct ContentView: View {
             }
         }
     }
+    
     func calculateBedtime() {
         
         do {
